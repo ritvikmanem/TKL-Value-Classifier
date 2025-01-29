@@ -9,7 +9,7 @@ This project processes Excel files within a specified input directory and extrac
   - `projectTypeTKLValues.txt`
   - `documentTypeTKLValues.txt`
   - `metadataReviewedTKLValues.txt`
-- Handles batch processing of subdirectories containing Excel files with name pattern `Full Index.xlsx`.
+- Handles batch processing of subdirectories containing Excel files with name pattern Index<*name*>.xlsx.
 - Prevents duplicate entries by maintaining existing unique values in the text files.
 
 ## Why This Project is Useful
